@@ -1,0 +1,6 @@
+venv
+build
+dist
+notebook/nifty_rf.pkl
+notebook/nifty_spread_rf.pkl
+Nifty_Spread_Pedication.egg-info

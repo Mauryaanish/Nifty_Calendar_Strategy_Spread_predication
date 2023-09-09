@@ -1,0 +1,14 @@
+[ 2023-09-09 11:03:59,350 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-09 11:03:59,383 ] 187 werkzeug - INFO -  * Debugger PIN: 127-233-312
+[ 2023-09-09 11:04:19,877 ] 61 root - INFO - DataFrame Gathered
+[ 2023-09-09 11:04:24,059 ] 187 werkzeug - INFO - 127.0.0.1 - - [09/Sep/2023 11:04:24] "POST /predict HTTP/1.1" 200 -
+[ 2023-09-09 11:04:24,338 ] 187 werkzeug - INFO - 127.0.0.1 - - [09/Sep/2023 11:04:24] "GET /static/styles.css HTTP/1.1" 200 -
+[ 2023-09-09 11:04:42,778 ] 61 root - INFO - DataFrame Gathered
+[ 2023-09-09 11:04:42,842 ] 187 werkzeug - INFO - 127.0.0.1 - - [09/Sep/2023 11:04:42] "POST /predict HTTP/1.1" 200 -
+[ 2023-09-09 11:04:42,929 ] 187 werkzeug - INFO - 127.0.0.1 - - [09/Sep/2023 11:04:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2023-09-09 11:05:38,440 ] 61 root - INFO - DataFrame Gathered
+[ 2023-09-09 11:05:38,524 ] 187 werkzeug - INFO - 127.0.0.1 - - [09/Sep/2023 11:05:38] "POST /predict HTTP/1.1" 200 -
+[ 2023-09-09 11:05:38,629 ] 187 werkzeug - INFO - 127.0.0.1 - - [09/Sep/2023 11:05:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2023-09-09 11:05:58,999 ] 187 werkzeug - INFO - 127.0.0.1 - - [09/Sep/2023 11:05:58] "GET / HTTP/1.1" 200 -
+[ 2023-09-09 11:05:59,123 ] 187 werkzeug - INFO - 127.0.0.1 - - [09/Sep/2023 11:05:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2023-09-09 11:09:32,341 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Nifty_spread_predication\\app.py', reloading

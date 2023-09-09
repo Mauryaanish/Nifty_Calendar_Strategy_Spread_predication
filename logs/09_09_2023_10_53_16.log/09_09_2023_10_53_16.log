@@ -1,0 +1,5 @@
+[ 2023-09-09 10:53:18,672 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-09 10:53:18,893 ] 187 werkzeug - INFO -  * Debugger PIN: 127-233-312
+[ 2023-09-09 10:53:21,672 ] 187 werkzeug - INFO - 127.0.0.1 - - [09/Sep/2023 10:53:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2023-09-09 10:53:25,143 ] 187 werkzeug - INFO - 127.0.0.1 - - [09/Sep/2023 10:53:25] "GET / HTTP/1.1" 200 -
+[ 2023-09-09 10:53:25,228 ] 187 werkzeug - INFO - 127.0.0.1 - - [09/Sep/2023 10:53:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -

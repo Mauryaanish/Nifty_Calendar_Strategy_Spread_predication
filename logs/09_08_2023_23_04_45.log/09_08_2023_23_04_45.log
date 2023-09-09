@@ -1,0 +1,12 @@
+[ 2023-09-08 23:04:46,823 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-08 23:04:46,859 ] 187 werkzeug - INFO -  * Debugger PIN: 127-233-312
+[ 2023-09-08 23:04:53,084 ] 61 root - INFO - DataFrame Gathered
+[ 2023-09-08 23:04:57,718 ] 187 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2023 23:04:57] "POST /predict HTTP/1.1" 200 -
+[ 2023-09-08 23:04:57,883 ] 187 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2023 23:04:57] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-08 23:05:06,258 ] 61 root - INFO - DataFrame Gathered
+[ 2023-09-08 23:05:06,405 ] 187 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2023 23:05:06] "POST /predict HTTP/1.1" 200 -
+[ 2023-09-08 23:05:06,523 ] 187 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2023 23:05:06] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-08 23:05:11,067 ] 187 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2023 23:05:11] "GET /predict HTTP/1.1" 200 -
+[ 2023-09-08 23:05:11,128 ] 187 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2023 23:05:11] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-08 23:05:22,192 ] 187 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2023 23:05:22] "GET / HTTP/1.1" 200 -
+[ 2023-09-08 23:05:22,294 ] 187 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2023 23:05:22] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -

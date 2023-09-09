@@ -1,0 +1,27 @@
+[ 2023-09-08 22:11:59,708 ] 25 root - INFO - Data ingestion Method Starts
+[ 2023-09-08 22:12:01,890 ] 29 root - INFO - Dateset Read as pandas Dataframe and data cleaning starts
+[ 2023-09-08 22:12:01,903 ] 35 root - INFO - Data Cleaning completed
+[ 2023-09-08 22:12:01,919 ] 39 root - INFO - Train Test Split
+[ 2023-09-08 22:12:01,936 ] 45 root - INFO - Ingestion of data is completed
+[ 2023-09-08 22:12:01,993 ] 72 root - INFO - Read train and test data completed
+[ 2023-09-08 22:12:02,008 ] 73 root - INFO - Train Dataframe Head: 
+        Day  Remaining_day    Vix  Moment_in_vix  Moment_in_price Option_type  Spread
+0  Thursday              7  20.61          -0.38            -9.00          PE    61.4
+1  Thursday              6  20.31           0.06            36.40          CE    80.7
+2    Friday              6  22.04          -1.02           -23.50          PE    76.0
+3    Friday              6  24.01           0.99          -148.00          CE    75.1
+4    Friday              6  12.80          -0.17           272.15          CE    55.1
+[ 2023-09-08 22:12:02,015 ] 74 root - INFO - Test Dataframe Head: 
+        Day  Remaining_day    Vix  Moment_in_vix  Moment_in_price Option_type  Spread
+0  Thursday              7  20.61          -0.38            -9.00          PE    61.4
+1  Thursday              6  20.31           0.06            36.40          CE    80.7
+2    Friday              6  22.04          -1.02           -23.50          PE    76.0
+3    Friday              6  24.01           0.99          -148.00          CE    75.1
+4    Friday              6  12.80          -0.17           272.15          CE    55.1
+[ 2023-09-08 22:12:02,015 ] 76 root - INFO - Obtaining preprocessing object
+[ 2023-09-08 22:12:02,015 ] 27 root - INFO - Data Transformation initiated
+[ 2023-09-08 22:12:02,015 ] 34 root - INFO - Pipeline Initiated
+[ 2023-09-08 22:12:02,263 ] 93 root - INFO - Applying preprocessing object on training and testing datasets.
+[ 2023-09-08 22:12:02,276 ] 105 root - INFO - Preprocessor pickle file saved
+[ 2023-09-08 22:12:02,277 ] 29 root - INFO - Splitting Dependent and Independent variables from train and test data
+[ 2023-09-08 22:12:03,923 ] 53 root - INFO - Model Name:- RandomForestRegressor() | Model Score:- 0.9522683221531841

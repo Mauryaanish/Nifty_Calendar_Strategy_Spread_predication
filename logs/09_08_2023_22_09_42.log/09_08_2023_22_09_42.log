@@ -1,0 +1,7 @@
+[ 2023-09-08 22:09:46,938 ] 25 root - INFO - Data ingestion Method Starts
+[ 2023-09-08 22:09:48,614 ] 29 root - INFO - Dateset Read as pandas Dataframe and data cleaning starts
+[ 2023-09-08 22:09:48,625 ] 35 root - INFO - Data Cleaning completed
+[ 2023-09-08 22:09:48,641 ] 39 root - INFO - Train Test Split
+[ 2023-09-08 22:09:48,657 ] 45 root - INFO - Ingestion of data is completed
+[ 2023-09-08 22:09:48,702 ] 72 root - INFO - Read train and test data completed
+[ 2023-09-08 22:09:48,702 ] 115 root - INFO - Exception occured in the initiate_datatransformation
